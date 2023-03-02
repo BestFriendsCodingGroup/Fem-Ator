@@ -21,6 +21,8 @@
    
     .box{
       background-color: white;
+      justify-content:center;
+      align-items: center;
       padding-top: 30px;
       padding: 30px;
       border-radius: 5px;
